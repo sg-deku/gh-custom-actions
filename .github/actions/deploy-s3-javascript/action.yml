@@ -1,0 +1,6 @@
+name: 'Deploy to AWS S3'
+deploy: 'Deploy a static wesbite'
+runs:
+  using: 'node16'
+  main: 'main.js'
+  
